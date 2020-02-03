@@ -49,5 +49,9 @@ HERE IS THE SIMPLE PHP CODE FOR SENDING MAIL
 
 
 ?>
+NOTE:-
+	You need to restart apache in order for php.ini to reload.
+	You need to activate Google Less secure app access in https://myaccount.google.com/u/1/security
+	It might help to run Xampp with Admin permission
 
 ******Hopefuly you may send mail to your friends************
